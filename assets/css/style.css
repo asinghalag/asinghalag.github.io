@@ -85,7 +85,7 @@
   position: relative;
   padding: 11px 35px;
   background: #fff;
-  color: #001679;
+  color: #00796b;
   border: 2px solid #fff;
   font-weight: 600;
   font-size: 15px;
@@ -97,7 +97,7 @@
 
 /* .readme:hover{
   color: white;
-  background-color: #001679;
+  background-color: #00796b;
 } */
 
 .contactme {
@@ -116,7 +116,7 @@
 }
 
 .contactme:hover{
-  color: #001679;
+  color: #00796b;
   background-color: white;
 }
 /* main body */
@@ -140,7 +140,7 @@ body {
 } */
 
 a {
-  color: #001679;
+  color: #004d40;
 }
 
 /* main blockqoute */
@@ -237,7 +237,7 @@ ul.side-nav li {
 
 ul.side-nav.fixed a {
   box-sizing: content-box;
-  color: #001679;
+  color: rgb(16, 202, 56);
   display: block;
   line-height: 100%;
   padding: 10px 0 12px;
@@ -320,7 +320,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #a7c3ff repeat;
+  background: #a7ffeb repeat;
   position: relative;
 }
 
@@ -473,7 +473,7 @@ a.hoverline {
 } */
 
 a.hoverline:hover {
-  border-bottom: 3px solid #022f81 !important;
+  border-bottom: 3px solid #004d40 !important;
 }
 
 #skills .card.large {
@@ -549,7 +549,7 @@ small {
 /* main .teal-text */
 
 .teal-text {
-  color: #001679 !important;
+  color: #008073 !important;
 }
 
 /* .teal-text {
@@ -559,8 +559,12 @@ small {
 /* .teal */
 
 .teal {
-  background-color: #001679 !important;
+  background-color: #008073 !important;
 }
+
+/* .teal {
+  background-color: #00695c !important;
+} */
 
 @media (min-width: 1200px) {
   #experience .container {
@@ -598,7 +602,7 @@ small {
     position: absolute;
   }
   nav a.button-collapse, nav a.button-collapse i {
-    color: #001679;
+    color: #009688;
     height: 56px;
     line-height: 56px;
   }
