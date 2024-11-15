@@ -562,10 +562,6 @@ small {
   background-color: #001679 !important;
 }
 
-/* .teal {
-  background-color: #00695c !important;
-} */
-
 @media (min-width: 1200px) {
   #experience .container {
     width: 860px;
