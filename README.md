@@ -1,13 +1,7 @@
-# Personal Portfolio ⚡️ 
-> A clean, beautiful, responsive portfolio template for Software Developers!
+# Personal Portfolio :)
+> A clean, beautiful, responsive portfolio!
 
 > https://asinghalag.github.io/
 
-
-
-
-
-
-To view a live example, **[click here](https://asinghalag.github.io//)**
 
 
